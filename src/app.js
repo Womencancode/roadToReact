@@ -1,11 +1,12 @@
 'use strict'
 
-const React = require('react');
+import React from 'react';
+import Contador from './contador';
 
-module.exports = 
-    class Title extends React.Component {
-        render() {
-            return React.createElement(
-                'h1', null, 'Title component');
-        }
+export default class App extends React.Component {
+    render() {
+        return (
+            <Contador />
+        )
     }
+}
