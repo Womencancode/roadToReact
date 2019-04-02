@@ -39,3 +39,17 @@
 
 
 [Link com o código da aula 03](https://github.com/pineladsn/roadToReact/tree/A03-25032019)
+
+## Aula 04:
+
+* Implementação de um componente intitulado PlacarContainer para ilustrar o placar de um jogo de futebol
+* Criação dos componentes Time, Partida e BotaoGol
+* Implementação da view especifica de cada um
+* Criação de um json simples para servir de mock
+* Passados os dados para os componentes
+* Conceito de props
+* Spread Operator
+* Criação e manipulação de states
+
+
+[Link com o código da aula 04](https://github.com/pineladsn/roadToReact/tree/A04-01042019)
